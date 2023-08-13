@@ -1,3 +1,24 @@
+//No projeto inicial o autor (ALURA, 2023) reproduziu uma singela homenagem a um dos clássicos dos games, o pong Atari da década de 1970. O projeto inicial consiste em uma tela de fundo construída como um retãngulo preto como campo. Atores retangulos laranja em movimento vertical como raquetes e uma círculo branco como bolinha. Por fim, placar dos jogadores e sons. Para inicar o jogo é neessário clicar na tela. Acessado em 21/06/2022.
+
+//Atividades propostas pelo Professor Renato Pereira:
+//1º Decompor funções e  blocos de programação e, em seguida, nomeá-los.
+//2º Fazer o estudo para abstração inserir comentários em todos os blocos do programa.
+//3º Alterar os componenetes transformando os algoritmos: formatos, cores, posições, velocidades, pontuações e placares etc., conforme orientações abaixo e, sobretudo, liberte e estenda à sua criatividade.
+//4º Altere a tela de fundo. Utilize-se de cores, inserção de figuras, imagens, luzes etc.
+//5º Altere as raquetes, utilize-se de cores, inserção de figuras, imagens, luzes etc.
+//6º Altere a bolinha e o seu movimento, utilize-se de cores, luzes etc.
+//7º Atere a tela do jogo para ser ajustável ao dispodsitivo.
+//8º Altere o placar e a pontuação.
+//9º Multiplique o trabalho no github com as seguintes características:
+//  a) Construa a pagina HTML;
+//  b) Faça a estilização CSS;
+//  c) Insira o Reset CSS.
+//  d) Programe para que o site seja responsivo. 
+//  e) Utiliza-se das Normas ABNT.
+//  f) Na responsabilidade da normatização, conforme a lei do marco civil da Internet no Brasil (https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm), garanta a civilidade e característica de valorização humana com o respeito à diversidade que compõem a força e a alegria que há na vida e, portanto, aos ambientes nos mais variados contextos culturais.
+//  g) Na responsabilidade da normatização, conforme a lei de direitos autorais no Brasil (https://www2.senado.leg.br/bdsf/item/id/243240), garanta a civilidade e característica de valorização humana com o respeito em agradecer e o dever legal em citar o autor anterior, a data e a fonte do trabalho, quando for o caso de reprodução ou alteração. E, em mesma medida, deixar dados de autoria e coautoria, data e instituição de ensino que pssibilitou a construção do trabalho.
+//@@@@@@@@@@
+
 //Classe estrelas
 class Star {
 	constructor() {
