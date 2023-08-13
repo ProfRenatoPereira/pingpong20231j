@@ -1,8 +1,7 @@
 //No projeto inicial o autor (ALURA, 2023) reproduziu uma singela homenagem a um dos clássicos dos games, o pong Atari da década de 1970. O projeto inicial consiste em uma tela de fundo construída como um retãngulo preto como campo. Atores retangulos laranja em movimento vertical como raquetes e uma círculo branco como bolinha. Por fim, placar dos jogadores e sons. Para inicar o jogo é neessário clicar na tela. Acessado em 21/06/2022.
-
 //Atividades propostas pelo Professor Renato Pereira:
-//1º Decompor funções e  blocos de programação e, em seguida, nomeá-los.
-//2º Fazer o estudo para abstração inserir comentários em todos os blocos do programa.
+//1º Decompor funções e blocos de programação e, em seguida, nomeá-los.
+//2º Fazer o estudo para abstração e inserir comentários em todos os blocos do programa.
 //3º Alterar os componenetes transformando os algoritmos: formatos, cores, posições, velocidades, pontuações e placares etc., conforme orientações abaixo e, sobretudo, liberte e estenda à sua criatividade.
 //4º Altere a tela de fundo. Utilize-se de cores, inserção de figuras, imagens, luzes etc.
 //5º Altere as raquetes, utilize-se de cores, inserção de figuras, imagens, luzes etc.
