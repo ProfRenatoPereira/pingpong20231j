@@ -1,2 +1,2 @@
 # pingpong20232j
-Código de game pong 1jogador para aula de Pensamento Computacional.
+Código de game pong 2 jogadores para aula de Pensamento Computacional.
